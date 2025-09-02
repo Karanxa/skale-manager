@@ -59,3 +59,6 @@ _Need to deploy the system first_
 [![License](https://img.shields.io/github/license/skalenetwork/skale-manager.svg)](LICENSE)
 
 Copyright (C) 2018-present SKALE Labs
+
+
+<!-- Security scan triggered at 2025-09-02 14:30:12 -->
